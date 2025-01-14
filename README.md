@@ -38,7 +38,7 @@ Check out my online portfolio for a deeper dive into my work:
 - 💌 **Email**: [Your Email Address]
 - 🧑‍💻 **LinkedIn**: [Your LinkedIn Profile Link]
 - 🐦 **Twitter**: [Your Twitter Handle]
-- 📲 **GitHub**: [GitHub Link](https://github.com/abhinavranjan)
+- 📲 **GitHub**: [GitHub Link](https://github.com/abhinavranjan23)
 
 Feel free to drop me a message or connect for exciting opportunities! 🚀
 
