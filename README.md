@@ -36,7 +36,7 @@ Check out my online portfolio for a deeper dive into my work:
 ## 📫 Let's Connect!
 
 - 💌 **Email**: abhinavranjan2202@gmail.com
-- 🧑‍💻 **LinkedIn**: [Your LinkedIn Profile Link]
+- 🧑‍💻 **LinkedIn**: https://www.linkedin.com/in/abhinav-ranjan-a790ba276/
 - 🐦 **Twitter**: [Your Twitter Handle]
 - 📲 **GitHub**: [GitHub Link](https://github.com/abhinavranjan23)
 
