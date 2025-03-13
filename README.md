@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
+<img src="https://komarev.com/ghpvc/?username=abhinavranjan23&style=flat-square&color=blue" alt=""/></div>
 # 👋 Hey there! I'm Abhinav Ranjan
 
 Welcome to my GitHub! I'm a passionate **MCA student** and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding. 
