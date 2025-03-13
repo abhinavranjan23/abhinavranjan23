@@ -21,9 +21,9 @@
 <table >
   <tr>
     <td>
-      <p align="left">
+      <div align="left">
         Welcome to my GitHub! I'm a passionate <bold>MCA student </bold> and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding.  Here's a little about me:
-      </p>
+      </div>
     </td>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwbmdhejYxcGduYzR3aXYwc2g4djZ6OHN1b3V3ZGNrM21hZnFycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="800" height="320"/>
