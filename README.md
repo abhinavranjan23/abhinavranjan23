@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # 👋 Hey there! I'm Abhinav Ranjan
 
 Welcome to my GitHub! I'm a passionate **MCA student** and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding. 
