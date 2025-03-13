@@ -80,7 +80,7 @@ Here are a few of my projects that I’ve put my heart and soul into, and I’m 
 - I’m always learning, experimenting, and building new things (sometimes I even code while listening to music 🎧).
 - I believe in the power of collaboration and open-source, so let’s build something amazing together! 🤝
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyakamboj15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thanks for stopping by! 😄
 
