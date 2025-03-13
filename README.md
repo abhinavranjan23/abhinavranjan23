@@ -22,7 +22,7 @@
   <tr>
     <td>
       <p align="left">
-        Welcome to my GitHub! I'm a passionate **MCA student** and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding.  Here's a little about me:
+        Welcome to my GitHub! I'm a passionate <bold>MCA student </bold> and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding.  Here's a little about me:
       </p>
     </td>
     <td>
