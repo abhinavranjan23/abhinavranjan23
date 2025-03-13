@@ -74,12 +74,14 @@ Here are a few of my projects that I’ve put my heart and soul into, and I’m 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ## 🔧 Fun Facts About Me
 
 - I live and breathe code, but when I'm not coding, I love solving real-world problems through technology.
 - I’m always learning, experimenting, and building new things (sometimes I even code while listening to music 🎧).
 - I believe in the power of collaboration and open-source, so let’s build something amazing together! 🤝
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavranjan23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks for stopping by! 😄
