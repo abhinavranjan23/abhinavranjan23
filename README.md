@@ -11,10 +11,9 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhinavranjan23&style=flat-square&color=blue" alt=""/></div>
-<div align="center>
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-  
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 # 👋 Hey there! I'm Abhinav Ranjan
 
 Welcome to my GitHub! I'm a passionate **MCA student** and a tech enthusiast exploring the world of **Full-Stack Development** 🌐, **Data Structures & Algorithms (DSA)** 🧠, and **JavaScript** 💻. I love to build impactful solutions and solve real-world problems through coding. 
