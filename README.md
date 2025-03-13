@@ -24,8 +24,7 @@
    <div align="left">
   Welcome to my GitHub! I'm a passionate <strong>MCA student</strong> and a tech enthusiast exploring the world of <strong>Full-Stack Development</strong> 🌐, <strong>Data Structures & Algorithms (DSA)</strong> 🧠, and <strong>JavaScript</strong> 💻. I love to build impactful solutions and solve real-world problems through coding. Here's a little about me:
 </div>
-
-    </td>
+</td>
     <td>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djb3k3enRzcm9lYzY4N3QzdmZwcHVycWtsM3pyZWQ5ZXZjNmZhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="340" height="320"/>
     </td>
